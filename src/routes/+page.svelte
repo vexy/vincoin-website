@@ -1,5 +1,52 @@
-<h1>Welcome to VINCOIN</h1>
-<p>Modern currency for modern world</p>
+<script>
+    import { goto } from "$app/navigation";
+</script>
 
-<button>Learn More</button>
-<button>Join our Discord</button>
+<section>
+    <img src="/favicon.png" height="100" alt="vincoin_logo"/>
+    <h1>VINCOIN</h1>
+    <i>Modern currency for advanced mindset</i>
+
+    <button on:click|self={() => goto("/learn-more")}>Learn More</button>
+</section>
+
+<style>
+    section {
+        height: 100vh;
+        margin: 0;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        background: #80aed9;
+        color: #dfdfdf;
+    }
+
+    h1 {
+        font-size: 3rem;
+        text-align: center;
+        margin: 10px;
+    }
+
+    img {
+        border-radius: 15px;
+    }
+
+    i {
+        margin: 10px;
+    }
+
+    button {
+        border: none;
+        border-radius: 10px;
+        padding: 0.65rem;
+        margin: 10px;
+    }
+
+    button:hover {
+        font-style: italic;
+        color: rgb(0, 119, 79);
+    }
+</style>
