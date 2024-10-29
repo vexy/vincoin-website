@@ -1,13 +1,17 @@
 <div align="center">
     <img src="./static/favicon.png" height=110/>
+    <p>Live preview is available at: <a         href="https://vincoin.world">https://vincoin.world</a>
+    </p>
 </div>
 
 # Vincoin website
-This repository contains source code for `Vincoin` website. Website is written in `TypeScript` with `SvelteKit` framework.
+This repository contains source code for `Vincoin` website.  
+Main project: [Vincoin](https://github.com/vexy/vincoin)
 
-Live preview is available at: [vincoin.world](https://vincoin.world)
+## TechStack
+Website is written in `TypeScript` with `SvelteKit` framework.  
 
-## Installation
+### Installation instructions
 To install the website locally, first make sure that you have [`bun`](https://bun.sh/) installed.  
 Then proceed with installing the dependencies, by typing:  
 ```bash
@@ -27,6 +31,13 @@ bun run build
 ```
 
 You can preview the production build by running `npm run preview`.
+
+## License
+Project is realeased under `GPL3.0` license
+
+## Contribution
+Want to contribute ?  
+Check our Discord server for more info.
   
 ----
 **PGPs:**  
