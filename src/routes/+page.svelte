@@ -43,10 +43,14 @@
         border-radius: 10px;
         padding: 0.65rem;
         margin: 10px;
+
+        font-family: "Overpass", sans-serif;
+        font-optical-sizing: auto;
     }
 
     button:hover {
         font-style: italic;
+        font-weight: 300;
         color: rgb(0, 119, 79);
     }
 </style>
