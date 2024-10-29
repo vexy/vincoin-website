@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./static/favicon.png" height=110/>
-    <p>Live preview is available at: <a         href="https://vincoin.world">https://vincoin.world</a>
+    <p>Live preview is available at: <a href="https://vincoin.world">https://vincoin.world</a>
     </p>
 </div>
 
