@@ -37,7 +37,7 @@ Project is realeased under `GPL3.0` license
 
 ## Contribution
 Want to contribute ?  
-Check our Discord server for more info.
+Check our [Discord server](https://discord.gg/dzbsT8jTg5) for more info.
   
 ----
 **PGPs:**  

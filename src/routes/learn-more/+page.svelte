@@ -8,7 +8,7 @@
 <p>At the dawn of cryptocurrencies, back in 2018, the idea of Vincoin emerged.</p>
 <p>Vincoin, as another Bitcoin child, inherited many aspect of the parent idea but with several marginal differences.</p>
 
-<h2>Mining pholosophy</h2>
+<h2>Mining philosophy</h2>
 <p>Using block reward as "incentive" for people to start spreading Bitcoin network proved to be degenerative perception of the free and open sourced software.</p>
 <p>Earning, selling and buying pieces of Bitcoin is actually nowhere to be found in original whitepaper, technical documentation nor single line of code, so it can hardly be explained why most of the people assume Bitcoin actually have any value. Specially one expressed in other fiat currencies...</p>
 <p>With that in mind, VINCOIN does not award node runners with any block reward(s), eliminating the possibility for similar destiny of Bitcoin "market values" and shallow perception.</p>
@@ -38,7 +38,7 @@
 <h2>Open sourced</h2>
 <p>VINCOIN is completely open sourced. Check the codebase at: <a href="https://github.com/vexy/vincoin">Vincoin @ Github</a></p>
 <p>VINCOIN is in (very!) early stages of it's development, so expect a lot of changes and adjustments</p>
-<p>Feel free to join our Discord for more info.</p>
+<p>Feel free to join our <a href="https://discord.gg/dzbsT8jTg5">Discord server</a> for more info.</p>
 
 <style>
     h1, h2 {
