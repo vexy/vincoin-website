@@ -28,25 +28,11 @@
         justify-content: center;
         align-items: center;
 
+        color: #097FF6;
+
         background-image: url("/images/vincoin15.png");
         background-repeat: no-repeat;
         background-position: center;
-        background-size: 100% 100%;
-    }
-
-    @media (min-width: 330px) {
-        main {
-            height: 100vh;
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: 140% 80%;
-        }
-    }
-
-    h1 {
-        font-size: 3rem;
-        text-align: center;
-        margin: 10px;
     }
 
     i {

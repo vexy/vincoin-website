@@ -1,0 +1,27 @@
+/* general styling of the entire website */
+
+html, body {
+    margin: 0;
+
+    /* font definition */
+    font-family: "Overpass", sans-serif;
+    font-optical-sizing: auto;
+
+    background: linear-gradient(#637e73, #2e502d);
+    color: #cccccc;
+}
+
+h1, h2, h3 {
+    display: block;
+    text-align: center;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 1.85rem;
+}
+
+img {
+    display: block;
+    border-radius: 15px;
+}
