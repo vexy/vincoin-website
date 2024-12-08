@@ -4,10 +4,12 @@
     let { data }: { data: PageData } = $props();
 </script>
 
-<h1>These are technical aspects of Vincoin</h1>
+<h1>Technical aspects of Vincoin</h1>
 
-<img src="/images/vincoin4.png" width="100" alt="coins" />
-<img src="/images/vincoin5.png" width="100" alt="coins" />
+<div>
+    <img src="/images/vincoin4.png" width="100" alt="coins" />
+    <img src="/images/vincoin5.png" width="100" alt="coins" />
+</div>
 
 <p>Learn more about architectural basics before diving into more complex aspects of Vincoin</p>
 
@@ -27,3 +29,11 @@
 <p><code>Vincoin</code> is completely open sourced, released under MIT license.</p>
 <p>Feel free to browse our <a href="https://github.com/vexy/vincoin">Github repo</a> (<i>stick to the development branch</i>). Contributions are more than welcome 🙌</p>
 <p><b>Please note:</b><i>VINCOIN is in (very!) early stages of it's development, so expect <b>a lot</b> of changes and adjustments</i></p>
+
+<style>
+    div {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+    }
+</style>

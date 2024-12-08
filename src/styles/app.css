@@ -2,26 +2,31 @@
 
 html, body {
     margin: 0;
+    height: 100vh;
+    overflow-y: auto;
 
     /* font definition */
     font-family: "Overpass", sans-serif;
     font-optical-sizing: auto;
 
-    background: linear-gradient(#637e73, #2e502d);
+    background: linear-gradient(#2e502d, #566e64);
     color: #cccccc;
 }
 
 h1, h2, h3 {
-    display: block;
     text-align: center;
     margin: 10px;
 }
 
 h1 {
+    font-weight: 500;
     font-size: 1.85rem;
 }
 
+p {
+    margin-inline: 15px;
+}
+
 img {
-    display: block;
     border-radius: 15px;
 }
